@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": "Pan",
+        "precio": 500.0,
+        "cantidad": 10
+    },
+    {
+        "nombre": "Monster",
+        "precio": 8500.0,
+        "cantidad": 88
+    },
+    {
+        "nombre": "Redbull",
+        "precio": 6500.0,
+        "cantidad": 50
+    },
+    {
+        "nombre": "Hamburguesa",
+        "precio": 32000.0,
+        "cantidad": 2
+    },
+    {
+        "nombre": "Perro caliente",
+        "precio": 11000.0,
+        "cantidad": 4
+    }
+]
