@@ -14,7 +14,7 @@ def agregar_producto():
         cantidad = int(input("Ingrese la cantidad disponible: "))
         
         if precio < 0 or cantidad < 0:
-            print("Producto ingresado correctamente")
+            print("Error: El precio y la cantidad deben ser valores positivos.")
         else:
             
             producto = {
